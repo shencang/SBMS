@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SBMS(简易图书管理系统)</string>
+    <string name="nameTitleTv">图书管理系统</string>
+    <string name="theme">主题</string>
+    <string name="content">内容</string>
+    <string name="chooseDate">选择时间</string>
+    <string name="add">添加书籍</string>
+    <string name="query">查询书籍</string>
+    <string name="id">编号</string>
+    <string name="date">时间</string>
+    <string name="modify">修改</string>
+    <string name="id_mh">编号：</string>
+    <string name="theme_mh">主题：</string>
+    <string name="content_mh">内容：</string>
+    <string name="date_mh">时间：</string>
+    <string name="care">详情</string>
+    <string name="delete">删除</string>
+    <string name="author">作者</string>
+    <string name="bookname">书名</string>
+    <string name="pages">页数</string>
+    <string name="price">价格</string>
+    <string name="modAuthor_mh">作者：</string>
+    <string name="bookName_mh">书名：</string>
+    <string name="pages_mh">页数：</string>
+    <string name="price_mh">价格：</string>
+</resources>
